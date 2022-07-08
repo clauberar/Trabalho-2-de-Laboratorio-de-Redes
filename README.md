@@ -22,7 +22,7 @@ Só deve executar ele e deixar em aberto em quanto estiver realizando a troca de
 
 para rodar a aplicação, execute o comando
 
-sudo docker run --rm -it  --network=host clauberar/cliente:cliente python3 prog_cliente.py 
+### sudo docker run --rm -it  --network=host clauberar/cliente:cliente python3 prog_cliente.py 
 
 ### prog_cliente.py
 
@@ -34,7 +34,7 @@ Para sair, basta somente digitar "sair"
 
 para rodar a aplicação, execute o comando
 
-sudo docker run --rm -it  --network=host clauberar/server:server python3 prog2_servidor.py 
+### sudo docker run --rm -it  --network=host clauberar/server:server python3 prog2_servidor.py 
 
 ## CONSIDERAÇÕES
 Esse programa foi realizado com todos os conhecimentos adquiridos na disciplina de Redes e com instruções de programas recebidos ao longo de toda a formação acadêmica.
